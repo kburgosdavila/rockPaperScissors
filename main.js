@@ -1,19 +1,6 @@
-// JavaScript Document
-// prompt to ask how many games to play//
-
-var games = prompt("How many rounds would you like to play?", "1 to 9");
+var person = prompt("How many rounds would you like to play?")
 
 
+var person = prompt("R, P, or S");
 
 
-
-
-
-
-/* Outocmes done in if statements are as follows:
-	rock beats scissors
-	paper beats rock
-	scissor beats paper
-	if same it is a tie*/
-	
-	
